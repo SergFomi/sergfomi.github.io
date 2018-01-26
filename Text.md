@@ -1,4 +1,6 @@
-# chernikole.github.io
+<!DOCTYPE html>
+<html>
+<body>
 
 О моей жизни и личности
 
@@ -43,3 +45,5 @@
 
 <nikoleta731@gmail.com>
 
+</body>
+</html>
